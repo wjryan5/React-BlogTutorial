@@ -49,3 +49,7 @@
   color: #3580f1;
   margin-bottom: 8px;
 }
+
+.blog-preview a {
+  text-decoration: none;
+}
